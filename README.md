@@ -20,4 +20,4 @@ A custom-built, touch-sensitive motorized fader controller for DAW control over 
 
 
 ## 📜 License
-Licensed under [GNU GPLv3](LICENSE). Derivatives must remain open-source.
+Licensed under [GNU GPLv3](LICENSE). Derivatives of the Fader Automation & DAW Routing System (FADRS) must remain open-source.
