@@ -1,4 +1,4 @@
-# FADRS - Fader Automation & DAW Routing System
+# FADRS - Fader Array DAW Remote Surface
 A customizable, motorized fader controller for DAW control over USB.
 
 ## 🎚️ Features
@@ -18,4 +18,4 @@ A customizable, motorized fader controller for DAW control over USB.
 
 
 ## 📋 License
-Licensed under [GNU GPLv3](LICENSE). Derivatives of the Fader Automation & DAW Routing System (FADRS) must remain open-source.
+Licensed under [GNU GPLv3](LICENSE). Derivatives of the Fader Array DAW Remote Surface (FADRS) must remain open-source.
