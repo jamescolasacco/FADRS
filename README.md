@@ -1,11 +1,11 @@
-# FADRS - Motorized Fader Board
+# FADRS
+## Fader Automation & DAW Routing System
 
-A custom-built, touch-sensitive motorized fader controller for DAW control over USB — powered by a Teensy microcontroller. Built for producers who want total hands-on control in the studio.
+A customizable, motorized fader controller for DAW control over USB.
 
 ## 🔧 Features
-- 9 motorized ALPS faders (8 Tracks + 1 Master)
-- Touch-sensitive controls
-- 4 programmable knobs per fader (pan, sends, etc.)
+- Modular touch-sensitive ALPS faders (8 Tracks + 1 Master by default)
+- 4 programmable knobs for each fader (pan, sends, etc.)
 - USB MIDI support via Teensy
 - Custom 3D-printed enclosure
 - Native DAW integration
