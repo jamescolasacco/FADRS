@@ -6,7 +6,7 @@ A customizable, motorized fader controller for DAW control over USB.
 - Programmable knobs for each track (pan, sends, etc.)
 - USB MIDI support via Teensy
 - Custom enclosures
-- Native DAW integration
+- Extensive DAW control (toggles, tracking, scrolling)
 
 ## ☑️ Quick Start
 - **Firmware:** Load code from `/firmware` to a Teensy 4.1 (or equivalent)
