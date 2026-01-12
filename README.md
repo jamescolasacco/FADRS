@@ -8,9 +8,9 @@ A customizable, motorized fader controller for DAW control over USB.
 - Custom enclosures
 - Extensive DAW control (toggles, tracking, scrolling)
 
-## ☑️ Quick Start
+## ☑️ Quick Start (work in progress)
 - **Firmware:** Load code from `/firmware` to a Teensy 4.1 (or equivalent)
-- **Hardware:** See `/hardware` for schematics, BOM, and board layout
+- **Hardware:** See `/hardware` for schematics and board layout
 - **Enclosure:** Optional models in `/enclosure` for 3D printing
 
 ## 🎬 Previews
