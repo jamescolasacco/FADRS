@@ -1,6 +1,9 @@
 # FADRS - Fader Array DAW Remote Surface
 A modular, motorized fader controller for DAW control over USB.
 
+## NOTE:
+Instructions are very early in development and are likely to change.
+
 ## Features
 - Touch-sensitive PSM01 fader configurations
 - Programmable knobs and buttons for each track (pan, sends, solo, etc.)
