@@ -1,19 +1,19 @@
 # FADRS - Fader Array DAW Remote Surface
-A customizable, motorized fader controller for DAW control over USB.
+A modular, motorized fader controller for DAW control over USB.
 
-## 🎚️ Features
-- Touch-sensitive ALPS fader configurations
-- Programmable knobs for each track (pan, sends, etc.)
-- USB MIDI support via Teensy
-- Custom enclosures
-- Extensive DAW control (toggles, tracking, scrolling)
+## Features
+- Touch-sensitive PSM01 fader configurations
+- Programmable knobs and buttons for each track (pan, sends, solo, etc.)
+- Fast USB MIDI support via Teensy
+- Customizable enclosurs for faders and master controller
+- Extensive DAW control and compatibility (toggles, tracking, scrolling)
 
-## ☑️ Quick Start (work in progress)
-- **Firmware:** Load code from `/firmware` to a Teensy 4.1 (or equivalent)
-- **Hardware:** See `/hardware` for schematics and board layout
-- **Enclosure:** Optional models in `/enclosure` for 3D printing
+## Quick Start (work in progress)
+- **Firmware:** Code from `/firmware` is made for the Teensy 4.1
+- **Hardware:** See `/hardware` for PCB gerber and schematic details
+- **Enclosure:** STL models in `/enclosure` for fabrication (3D Printing, CNC Milling, etc.)
 
-## 🎬 Previews
+## Previews
 *N/A*
 
 
