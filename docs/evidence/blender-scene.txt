@@ -1,0 +1,9 @@
+OBJECT COUNTS {'Custom conductive saddle': 8, 'Adafruit 938': 8, 'E-Switch TL1240': 53, 'Fader-Carrier /': 8, 'PSM01 / drawn': 8, 'Pololu 713': 4, 'JST B10B': 2}
+TRUE MESH BOUNDS IN MM [-2.70500000e+02 -1.33420639e+02 -1.10969413e-02] [270.5        136.81098938  72.54303741] [541.         270.23162842  72.55413436] ['Bank Cheek', 'Bank Cheek', 'Isolation bumper.001'] ['Master Cheek', 'Same Sky UJ20 • USB-C host link receptacle', 'Encoder / ivory pointer.004']
+TYPEFACES []
+CAMERAS [('01   Hero | front three-quarter', 60.0), ('02   Panel | elevated', 65.0), ('03   Control detail | channel bank', 64.0), ('04   Control detail | transport', 67.0)]
+STUDIO CYCLES AgX 5
+PACKED ART [('oled0.png', True), ('oled1.png', True), ('oled2.png', True), ('oled3.png', True), ('oled4.png', True), ('oled5.png', True), ('oled6.png', True), ('oled7.png', True), ('transport.png', True)]
+OUTLINED LEGENDS 127
+ACTIVE SHOT 01   Hero | front three-quarter
+RENDER PATH //FADRS-Hero.png

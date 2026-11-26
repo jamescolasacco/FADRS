@@ -1,0 +1,11 @@
+.DS_Store
+*.blend[0-9]
+*.kicad_prl
+*.lck
+_autosave-*
+\#auto_saved_files\#
+*-backups/
+fp-info-cache
+FADRS-Studio-Package.zip
+FADRS-GitHub-Update.bundle
+previews/
